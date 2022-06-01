@@ -7,7 +7,7 @@ Three date quality parameters including the quantity of juice, size and freshnes
 Python, skfuzzy, numpy
 
 # Rules
-<\br>
+
 ![image](https://user-images.githubusercontent.com/46111662/171332120-30f1e470-017e-4268-a865-0aafdb182931.png)
 
 # resource
